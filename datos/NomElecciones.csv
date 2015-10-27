@@ -1,0 +1,10 @@
+eleCodigo,eleDescripcion,Color,eleOrden
+1,"Presidente","2096D3",1
+2,"Senadores Nacionales","F28773",3
+3,"Diputados Nacionales","C67DC6",4
+4,"Gobernador","63A163",6
+5,"Senadores Provinciales","4E7A90",7
+6,"Diputados Provinciales","29A3A3",8
+7,"Concejales","F5812E",9
+8,"Parlasur Nacionales","CCA37A",2
+9,"Parlasur Regionales","8A8AE6",5
