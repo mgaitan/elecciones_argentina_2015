@@ -40,4 +40,4 @@ Instalar el programa con Wine y luego, utilizando IPython
 Otras elecciones
 ----------------
 
-- También están disponibles los datos de las `elecciones de 2013 <https://github.com/mgaitan/elecciones_argentina_2015>`_
+- También están disponibles los datos de las `elecciones de 2013 <https://github.com/mgaitan/elecciones_argentina_2013>`_
